@@ -1,0 +1,12 @@
+Questi sono gli hash delle password che servono a decifrare i vari file(1,2,3). 
+
+Obbiettivo: Trovare le flag.
+Consiglio: risolveteli in ordine.
+
+
+HASH PASSWORD 1: 9e02fdbbc6df842939b75a98e92e98317d29046c
+
+HASH PASSWORD 2a: 977cd0822fe6f0a1ca64787f933820f3 (per questa non servono nemmeno le rules)
+HASH PASSWORD 2b: 3b2fd659c8f48db0688148fabe3cd9d37e928e9b04d7f3a1ab691263abf1c72949a632cf1d77695e7c6cb887bfa3dbaff6e52900e75d2f0296006cf79ef5ca7e (con salt kjsahdjhasd)
+
+HASH PASSWORD 3: e547671ff6e7e1d7b5fc2141f6b63648b45a2df2d1a7270ed9f0773a79109007
